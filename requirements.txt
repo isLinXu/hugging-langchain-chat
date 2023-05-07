@@ -1,0 +1,7 @@
+torch>=1.6.0
+langchain
+python-dateutil
+python-slugify
+huggingface_hub
+sentence_transformers
+faiss-cpu
